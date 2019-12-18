@@ -1,8 +1,8 @@
 import React from 'react';
-import Buttom_Hooks from './Components/Buttom_Hooks';
-import Buttom from './Components/Buttom';
-import CountComponent from './Components/CountComponent';
-import CountComponent_Hooks from './Components/CountComponent_Hooks';
+import Buttom_Hooks from 'Components/Hooks/Buttom_Hooks';
+import Buttom from 'Components/Buttom';
+import CountComponent from 'Components/CountComponent';
+import CountComponent_Hooks from 'Components/Hooks/CountComponent_Hooks';
 
 const App = () => {
   return (
